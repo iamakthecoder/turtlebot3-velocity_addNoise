@@ -1,0 +1,1 @@
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/share/roseus/ros/add_noise/manifest.l

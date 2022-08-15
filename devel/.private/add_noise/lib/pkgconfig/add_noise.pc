@@ -1,0 +1,8 @@
+prefix=/home/iamak/Desktop/task2_ws/devel/.private/add_noise
+
+Name: add_noise
+Description: Description of add_noise
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

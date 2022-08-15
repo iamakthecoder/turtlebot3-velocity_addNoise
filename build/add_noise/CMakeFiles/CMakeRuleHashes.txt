@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+49ecf65a31387c4ddcbc7971815e1b6f /home/iamak/Desktop/task2_ws/devel/.private/add_noise/share/roseus/ros/add_noise/manifest.l
+12c88ebafa7d4a94f04db129eced1b0f CMakeFiles/add_noise_generate_messages_eus
+3cc49acb1a22ee36c3070b3183a2a202 CMakeFiles/clean_test_results

@@ -1,0 +1,10 @@
+add_noise
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/cmake.lock /home/iamak/Desktop/task2_ws/devel/./cmake.lock
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/lib/python3/dist-packages/add_noise/__init__.py /home/iamak/Desktop/task2_ws/devel/lib/python3/dist-packages/add_noise/__init__.py
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/lib/add_noise/add_noise_vel /home/iamak/Desktop/task2_ws/devel/lib/add_noise/add_noise_vel
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/lib/pkgconfig/add_noise.pc /home/iamak/Desktop/task2_ws/devel/lib/pkgconfig/add_noise.pc
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/share/add_noise/cmake/add_noise-msg-paths.cmake /home/iamak/Desktop/task2_ws/devel/share/add_noise/cmake/add_noise-msg-paths.cmake
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/share/add_noise/cmake/add_noise-msg-extras.cmake /home/iamak/Desktop/task2_ws/devel/share/add_noise/cmake/add_noise-msg-extras.cmake
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/share/add_noise/cmake/add_noiseConfig.cmake /home/iamak/Desktop/task2_ws/devel/share/add_noise/cmake/add_noiseConfig.cmake
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/share/add_noise/cmake/add_noiseConfig-version.cmake /home/iamak/Desktop/task2_ws/devel/share/add_noise/cmake/add_noiseConfig-version.cmake
+/home/iamak/Desktop/task2_ws/devel/.private/add_noise/share/roseus/ros/add_noise/manifest.l /home/iamak/Desktop/task2_ws/devel/share/roseus/ros/add_noise/manifest.l
